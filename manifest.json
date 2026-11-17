@@ -1,6 +1,6 @@
 {
-  "version": "1.1.6",
-  "download_url": "https://github.com/FBCheckerOfficial/fb-checker-releases/releases/download/v1.1.6/tool.exe",
-  "sha256": "6897758fa7ed2a7f128b39beb186ae8d117d40c587c0b8354f65ea221fe8a690",
-  "signature": "0ac5982257e90aa9fece703840e0391e60cf691559634855ed0dfed9b84d93928b43c0395a9a2c03d0c53e498c6c2b8feaff1d6f1d1e3d4b017300ac1db72909"
+  "version": "1.1.7",
+  "download_url": "https://github.com/FBCheckerOfficial/fb-checker-releases/releases/download/v1.1.7/tool.exe",
+  "sha256": "ea106e8a193d9f72ae53c9088885e778cfbdcac223bd2c73d2752e203c586f9e",
+  "signature": "f0bd180ab38607b9de072109754a3056723146a9761489fd004879b3fe8b4a79127f94578901264135ae837547802625cd369b8975d7a58087aa60abb82d0f06"
 }
